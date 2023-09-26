@@ -1,6 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Handprint-Footprint calculator 
+Dit project bestaat uit het maken van een web-applicatie, zodat kleine bedrijven hun handprint en footprint overzichtelijk kunnen zien. Hierbij moet de feitelijke situatie op een zo goed mogelijke manier worden gevisualiseerd.
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
