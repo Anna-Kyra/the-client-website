@@ -2,6 +2,8 @@
 
 # Handprint-Footprint calculator 
 Dit project bestaat uit het maken van een web-applicatie, zodat kleine bedrijven hun handprint en footprint overzichtelijk kunnen zien. Hierbij moet de feitelijke situatie op een zo goed mogelijke manier worden gevisualiseerd.
+
+**Website link:** https://anna-kyra.github.io/the-client-website/
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Inhoudsopgave
