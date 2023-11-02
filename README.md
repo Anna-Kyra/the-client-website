@@ -17,8 +17,13 @@ Dit project bestaat uit het maken van een web-applicatie, zodat kleine bedrijven
 Deze webapplicatie is in opdracht van CrossmarX. Bij deze hand- footprint calculator moet de klant een goed overzicht hebben hoe milleuvriendelijk zijn bedrijf daadwerkelijk is. 
 Hierbij zijn de volgende betrokkenen belangrijk om te vergelijken: medewerkers, aandeelhouders, leveranciers, klanten en de omgeving. Website op desktop is een pre, mobile niet. 
 
-### Backlog
-Ontwerp een webapplicatie waarmee een relatief klein bedrijf (tot ongeveer 100 man personeel) op een makkelijke, leuke manier geholpen wordt om zijn eigen handprint en footprint inzichtelijk te maken.
+### Userstories
+CEO: Als bedrijfseigenaar wil ik een goed overzicht van hoe milieuvriendelijk mijn bedrijf is.
+
+CEO: Als bedrijfseigenaar wil ik zien wat voor een invloed ieder van mijn stakeholders hebben op de milieuvriendelijkheid op mijn bedrijf.
+
+CEO: Als bedrijfseigenaar wil ik een berekening hebben van mijn hand- en footprint en van mijn stakeholders.
+
 
 ### Visuals
 <img width="1680" alt="Scherm­afbeelding 2023-10-31 om 12 03 02" src="https://github.com/Anna-Kyra/the-client-website/assets/144000242/5c1349f7-dd9f-4937-9b4c-30be54345e80">
