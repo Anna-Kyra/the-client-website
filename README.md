@@ -30,6 +30,7 @@ CEO: Als bedrijfseigenaar wil ik een berekening hebben van mijn hand- en footpri
 <img width="1680" alt="Scherm­afbeelding 2023-10-31 om 12 04 33" src="https://github.com/Anna-Kyra/the-client-website/assets/144000242/be7ce939-cbc6-46b7-85f2-602482f1bada">
 
 **Website link:**  [Hand- Footprint calculator](https://anna-kyra.github.io/the-client-website/)
+**Prototype link:** [Prototype 1](https://xd.adobe.com/view/bd88c262-0397-4e34-a0f5-dd7473fb0602-e8db/)
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
